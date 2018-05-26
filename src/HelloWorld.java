@@ -6,6 +6,6 @@ public class HelloWorld {
 		System.out.println("thr_world");
 		System.out.println("four world");
 		
-		//커밋저장연습 2
+		//커밋저장연습3
 	}
 }
